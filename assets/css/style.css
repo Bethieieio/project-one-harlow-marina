@@ -1,0 +1,36 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  header {
+      height: 100%;
+  }
+  
+  #hero-image {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5),     rgba(255, 255, 255, 0.5)), url(../images/hero.png);
+
+    height: 60%;
+    background-position: center 40%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #hero-image h1 {
+    line-height:0.83em;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #3c54a3/*#4169e1*/;
+    text-shadow: 2px 2px 0 gold /*87ceeb*/;
+    font-size: 4em;
+    margin-bottom: 0.1em;
+  }
+
+  .slogen{
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.5em;
+  }
