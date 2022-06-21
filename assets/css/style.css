@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Raleway:wght@200&family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Raleway:wght@300&family=Yellowtail&display=swap');
 
 body, html {
     height: 100%;
+    background-color: lightgray;
 }
 
 * {
@@ -10,14 +11,45 @@ body, html {
   }
 
   header {
-      height: 100%;
+      height: 60%;
+      display: flex;
+      flex-direction: column;
   }
+
+  h2 {
+    color: #3c54a3;
+    font-family: Righteous, sans-serif;
+    font-size: 2em;
+}
+
+p {
+  font-family: Raleway, sans-serif;
+  font-size: 1.25em;
+  line-height: 7mm;
+}
+
+hr {
+  width: 30%;
+  border-top: 1px solid #3c54a3;
+  margin-bottom: 6px;
+}
+
+h1 {
+  line-height:0.83em;
+  text-align: left;
+  font-family: Righteous, sans-serif;
+  color:#3c54a3 ;
+  text-shadow: 2px 2px 0 gold;
+  font-size: 3.5em;
+  margin-bottom: 0.1em;
+}
+
+
   
   /* hero image, title and slogen */
   #hero-image {
     background-image: linear-gradient(rgba(255, 255, 255, 0.5),     rgba(255, 255, 255, 0.5)), url(../images/hero.png);
-
-    height: 60%;
+    flex-grow: 2;
     background-position: center 40%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,6 +58,7 @@ body, html {
     justify-content: center;
     align-items: center;
   }
+    
   #hero-image h1 {
     line-height:0.83em;
     text-align: center;
@@ -51,15 +84,15 @@ body, html {
   nav ul{
       list-style: none;
       background-color: gold;
+      font-size: 2em;
   }
 
   nav a {
-      font-family: 'Righteous';
-      font-size: 2em;
+      font-family: Righteous, sans-serif;
       text-decoration: none;
       color: #3c54a3;
       display: inline-block;
-      margin: 0 50px;
+      padding: 0 50px;
  }
 
   nav a:hover {
@@ -71,5 +104,24 @@ body, html {
     border-bottom: 3px solid #3c54a3;
     color: #3c54a3;
  }
-  
 
+ 
+
+ /* welcome section */
+ #welcome {
+   margin-top: 2%;
+   width: 40%;
+   height: 40%;
+   margin-left: 5%;
+  }
+
+
+
+  
+footer {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5),     rgba(255, 255, 255, 0.5)), url(../images/background2.png);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+}
