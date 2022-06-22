@@ -12,6 +12,7 @@ header {
     flex-direction: column;
 }
 
+/* hero image and big title */
 #hero-image {
     background-image: linear-gradient(rgba(255, 255, 255, 0.5),     rgba(255, 255, 255, 0.5)), url(../images/hero.png);
     flex-grow: 2;
@@ -36,10 +37,11 @@ header {
 
   .slogen{
     font-family: 'Yellowtail', sans-serif;
-    font-size: 2.5em;
+    font-size: 3em;
     color: black;
   }
 
+/* nav bar */
   nav {
       font-size: 2rem;
       padding: 20px;
