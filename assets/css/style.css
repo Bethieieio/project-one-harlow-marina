@@ -3,7 +3,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: ;
+    background-color: #FFF3B0;
 }
 
 header {
@@ -34,10 +34,10 @@ header {
     font-size: 5em;
     margin-bottom: 0.1em;
   }
-
+  
   .slogen{
     font-family: 'Yellowtail', sans-serif;
-    font-size: 3rDem;
+    font-size: 3rem;
     color: black;
   }
 
@@ -65,5 +65,20 @@ header {
   nav a:hover {
       border-bottom: 1px solid;
   }
+
+  @media only screen and (max-width: 800px) {
+    #hero-image h1 {
+        font-size: 3.5em;
+    }
+    .slogen {
+        font-size: 1.5rem;
+    }
+
+    nav {
+        font-size: 1rem;
+        margin: 0;
+        padding-left: 0;
+    }
+}
 
   
