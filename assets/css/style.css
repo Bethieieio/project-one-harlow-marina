@@ -37,7 +37,7 @@ header {
 
   .slogen{
     font-family: 'Yellowtail', sans-serif;
-    font-size: 3em;
+    font-size: 3rDem;
     color: black;
   }
 
@@ -60,6 +60,10 @@ header {
   nav a {
     text-decoration: none;
     color: #FFF3B0;
+  }
+
+  nav a:hover {
+      border-bottom: 1px solid;
   }
 
   
