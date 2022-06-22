@@ -3,6 +3,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    background-color: ;
 }
 
 header {
@@ -43,15 +44,20 @@ header {
       font-size: 2rem;
       padding: 20px;
       font-family: Cinzel, sans-serif;
+      display: flex;
+      justify-content: center;
+      background-color: #3c54a3;
   }
 
   nav li {
       list-style: none;
+      margin: 10px;
+      padding-left: 15px;
   }
 
   nav a {
     text-decoration: none;
-    color: #3c54a3;
+    color: #FFF3B0;
   }
 
   
