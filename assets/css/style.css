@@ -16,6 +16,7 @@ section {
     font-size: 2em;
     margin: 0 10% 0 10%;
     background-color: #FFF3B0;
+    border: 2pX solid #3c54a3;
 }
 
 h2 {
@@ -101,6 +102,7 @@ p {
   #night-marina {
       height: auto;
       width: 40%;
+      margin-bottom: 50px;
   }
   
  
