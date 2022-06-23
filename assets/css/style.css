@@ -29,11 +29,9 @@ h2 {
 p {
     width: 50%;
     margin-top: 1px;
-    padding-left: 20px;
     padding-bottom: 20px;
     font-family: Zilla Slab, sans-serif;
-    
-
+    display: flex;
 }
 
 
@@ -92,6 +90,17 @@ p {
 
   nav a:hover {
       border-bottom: 1px solid;
+  }
+
+  /* welcome section with image */
+  #welcome-content {
+      display: flex;
+      justify-content: space-evenly;
+  }
+  
+  #night-marina {
+      height: auto;
+      width: 40%;
   }
   
  
