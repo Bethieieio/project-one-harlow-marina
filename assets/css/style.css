@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Yellowtail&family=Zilla+Slab:wght@300&display=swap');
 
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #FFF3B0;
+    background-color: white
 }
 
 header {
@@ -11,6 +11,31 @@ header {
     display: flex;
     flex-direction: column;
 }
+
+section {
+    font-size: 2em;
+    margin: 0 10% 0 10%;
+    background-color: #FFF3B0;
+}
+
+h2 {
+    color: #3c54a3;
+    font-family: Cinzel, sans-serif;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    border-bottom: 2px solid ;
+}
+
+p {
+    width: 50%;
+    margin-top: 1px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-family: Zilla Slab, sans-serif;
+    
+
+}
+
 
 /* hero image and big title */
 #hero-image {
@@ -49,6 +74,7 @@ header {
       display: flex;
       justify-content: center;
       background-color: #3c54a3;
+      margin: 0 10% 0  10%;
       position: sticky;
       top: 0;
   }
@@ -68,9 +94,7 @@ header {
       border-bottom: 1px solid;
   }
   
-  section {
-      font-size: 3em;
-  }
+ 
 
 
   /*@media only screen and (max-width: 800px) {
