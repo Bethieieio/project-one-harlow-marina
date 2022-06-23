@@ -94,8 +94,8 @@ p {
       border-bottom: 1px solid;
   }
 
-  /* welcome section with image */
-  #welcome-content {
+  /* section classes >>>>>>>>>>>>>>> */
+  .section-content {
       display: flex;
       justify-content: space-evenly;
   }
