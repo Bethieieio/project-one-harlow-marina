@@ -22,7 +22,7 @@ section {
     background-color: #FFF3B0;
     border: 2px solid #3c54a3;
     color: black;
-}
+}   
 
 h2 {
     color: #3c54a3;
@@ -39,10 +39,6 @@ p {
     padding-bottom: 10px;
     font-family: Zilla Slab, sans-serif;
     display: flex;
-}
-
-ul {
-    margin: 10px 0;
 }
 
 
@@ -103,6 +99,10 @@ ul {
       border-bottom: 1px solid;
   }
 
+  .nav-jump {
+      scroll-margin-top: 4em;
+  }
+
   /* sections layout*/
   .section-content {
       display: flex;
@@ -118,11 +118,12 @@ ul {
   
   /* facilities */
   #facilities-list {
-      width: 30%;
+      width: 32%;
       font-family: Zilla Slab, sans-serif;
       background-color: #3c54a3;
       border-radius: 25px;
       color: #FFF3B0;
+      /* margin: 20px 0; */
   }
 
   /* contact us */
