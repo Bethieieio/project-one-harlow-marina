@@ -3,8 +3,11 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-image: url(../images/anchor-background.jpg) white;
+    background-color: white;
+    background-image: url(../images/anchor-background-png.png);
+    background-position: cover;
     background-repeat: repeat;
+    background-attachment: fixed;
 }
 
 header {
@@ -15,10 +18,9 @@ header {
 
 section {
     font-size: 2em;
-    margin: 0 5% 0 5%;
+    margin: 50px 5% 50px 5%;
     background-color: #FFF3B0;
     border: 2px solid #3c54a3;
-    margin-bottom: 50px;
 }
 
 h2 {
