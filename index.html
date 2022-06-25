@@ -115,7 +115,31 @@
             <div class="section-content">
             <form method="post" action="#" id="contact-us-form">
                 <h3>Do you have a question? Well we have the answer!</h3>
-                <label></label>
+
+                <label for="fname">First Name</label>
+                <input id="fname" type="text" name="first_name" class="form text-input" placeholder="Beth" required>
+
+                <label for="lname"> Last Name</label>
+                <input id="fname" type="text" name="first_name" class="form-text-input" placeholder="Allaway" required>
+
+                <label for="email"> E-Mail Address</label>
+                <input id="email" type="email" name="email_address" class="form-text-input" placeholder="name@email.co.uk" required>
+
+                <label for="inquiry-type">What are you inquiring about?</label>
+                <select name="query" id="inquiry-type" required>
+                    <option></option>
+                    <option value="general">General Inquiry</option>
+                    <option value="chandlery">Chandlery</option>
+                    <option value="general">Clubhouse Cafe</option>
+                    <option value="mooring">Mooring</option>
+                </select>
+
+                <label for="message">Please tell us your inquiry</label>
+                <textarea id="message" name="message" rows="20" column="90" placeholder="Write your message here..." required></textarea>
+
+                
+
+
             </form>
             </div>
 
