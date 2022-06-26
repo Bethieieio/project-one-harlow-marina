@@ -34,6 +34,18 @@ h2 {
     margin-top: 20px;
 }
 
+h3 {
+    text-align: center;
+    background-color: #3c54a3;
+    border-radius: 50px;
+    color: #FFF3B0;
+    display: inline-block;
+    margin-top: 0;
+    margin-left:39%;
+    padding: 25px;
+    font-size: 0.75em;
+}
+
 p {
     width: 50%;
     margin-top: 1px;
@@ -129,13 +141,24 @@ p {
 
   /* contact us */
     input {
-        letter-spacing: ;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 1em;
+        width: 500px;
   }
 
   .form-structure {
       display: block;
       line-height: 75   px;
+      font-family: Cinzel, sans-serif;
+      margin-left: 30px;
+      
   } 
+  
+  form {
+      margin: 30px;
+      padding: 50px;
+      border: 1px solid #3c54a3
+  }
  
 
 
