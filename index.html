@@ -113,18 +113,25 @@
             </span>
             
             <div class="section-content">
-            <form method="post" action="#" id="contact-us-form">
+            <form method="post" action="#">
                 <h3>Do you have a question? Well we have the answer!</h3>
 
+                <div class="form-structure"> <!--first name-->
                 <label for="fname">First Name</label>
                 <input id="fname" type="text" name="first_name" class="form text-input" placeholder="Beth" required>
+                </div>
 
+                <div class="form-structure">   <!--last name-->
                 <label for="lname"> Last Name</label>
                 <input id="fname" type="text" name="first_name" class="form-text-input" placeholder="Allaway" required>
+                </div>
 
+                <div class="form-structure"> <!--email-->
                 <label for="email"> E-Mail Address</label>
                 <input id="email" type="email" name="email_address" class="form-text-input" placeholder="name@email.co.uk" required>
+                </div>
 
+                <div class="form-structure"> <!--inquiry type-->
                 <label for="inquiry-type">What are you inquiring about?</label>
                 <select name="query" id="inquiry-type" required>
                     <option></option>
@@ -134,11 +141,13 @@
                     <option value="mooring">Mooring</option>
                 </select>
 
-                <label for="message">Please tell us your inquiry</label>
-                <textarea id="message" name="message" rows="20" column="90" placeholder="Write your message here..." required></textarea>
+                <div class="form-structure"> <!--message-->
+                <label for="message">Please tell us your inquiry</label><br>    
+                <textarea id="message" name="message" rows="25" column="50" placeholder="Write your message here..." required></textarea>
 
-                
-
+                <div class="form-structure"> <!--send button-->
+                <input id="send-button" type="submit" value="Send!">
+                </div>
 
             </form>
             </div>

@@ -128,9 +128,14 @@ p {
   }
 
   /* contact us */
-  #contact-us-form{
-      
+    input {
+        letter-spacing: ;
   }
+
+  .form-structure {
+      display: block;
+      line-height: 75   px;
+  } 
  
 
 
