@@ -136,7 +136,7 @@ p {
 
   .form-structure {
       display: block;
-      line-height: 75   px;
+      line-height: 50px;
       font-family: Cinzel, sans-serif;
       margin-left: 30px;
       
@@ -146,6 +146,11 @@ p {
       margin: 30px;
       padding: 50px;
       border: 1px solid #3c54a3
+  }
+
+  #form-section {
+    display: flex;
+    justify-content: space-evenly;
   }
  
 
