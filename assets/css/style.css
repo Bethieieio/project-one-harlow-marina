@@ -139,18 +139,40 @@ p {
       line-height: 50px;
       font-family: Cinzel, sans-serif;
       margin-left: 30px;
+      color: #3c54a3;
       
   } 
   
   form {
       margin: 30px;
       padding: 50px;
-      border: 1px solid #3c54a3
+      border: 5px solid #3c54a3;
+      background-image: url(../images/wall-background.jpg);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
   }
 
   #form-section {
     display: flex;
     justify-content: space-evenly;
+  }
+
+  select {
+      font-size: 1em;
+      font-family: Zilla Slab, sans-serif;
+      color: #3c54a3;
+  }
+
+  textarea {
+      font-size: 1em;
+      font-family: Zilla Slab, sans-serif;
+      color: #3c54a3;
+
+  }
+
+  #send-button {
+    
   }
  
 
