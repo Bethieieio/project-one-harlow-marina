@@ -80,7 +80,7 @@ p {
       display: flex;
       justify-content: center;
       background-color: #3c54a3;
-      margin: 0 5% 0  5%;
+      margin: 0;
       position: sticky;
       top: 0;
   }
@@ -132,6 +132,7 @@ p {
         font-family: Zilla Slab, sans-serif;
         font-size: 1em;
         width: 500px;
+        color: #3c54a3;
   }
 
   .form-structure {
@@ -172,8 +173,14 @@ p {
   }
 
   #send-button {
-    
+      background-color: #3c54a3;
+      color: #FFF3B0;
+      font-family: Cinzel, sans-serif;
+      width: 300px;
+      height: auto;
+      margin-left: 55px;
   }
+
  
 
 
