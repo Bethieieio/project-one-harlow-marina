@@ -183,15 +183,17 @@ p {
   .mapouter {
       position:relative;
       text-align:right;
-      height:400px;
-      width:400px;
+      height:500px;
+      width:500px;
+      margin-top: 30px;
+      border: 5px solid #3c54a3
     }
 
     .gmap_canvas {
         overflow:hidden;
         background:none!important;
-        height:400px;
-        width:400px;}
+        height:500px;
+        width:500px;}
 
  
 
