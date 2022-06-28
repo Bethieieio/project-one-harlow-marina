@@ -83,6 +83,7 @@ p {
       margin: 0;
       position: sticky;
       top: 0;
+      z-index: 999;
   }
 
   nav li {
@@ -139,7 +140,6 @@ p {
       display: block;
       line-height: 50px;
       font-family: Cinzel, sans-serif;
-      margin-left: 30px;
       color: #3c54a3;
       
   } 
@@ -178,8 +178,20 @@ p {
       font-family: Cinzel, sans-serif;
       width: 300px;
       height: auto;
-      margin-left: 55px;
   }
+
+  .mapouter {
+      position:relative;
+      text-align:right;
+      height:400px;
+      width:400px;
+    }
+
+    .gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:400px;
+        width:400px;}
 
  
 
