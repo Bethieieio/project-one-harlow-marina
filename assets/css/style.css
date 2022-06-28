@@ -222,6 +222,31 @@ p {
 
     }
 
+    /* footer */
+    footer {
+        background-color: #3c54a3;
+        
+    }
+
+    .social-networks {
+        text-align: center;
+    }
+    
+    .social-networks > li {
+        display: inline;
+    }
+    
+    .social-networks i {
+        font-size: 160%;
+        margin: 1%;
+        padding: 5%;
+        color: #FFF3B0;
+    }
+    
+    .social-networks a {
+        text-decoration: none;
+    }
+
 
 
  
