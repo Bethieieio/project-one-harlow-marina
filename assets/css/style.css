@@ -229,7 +229,7 @@ p {
     }
 
     .social-networks {
-        text-align: center;
+        text-align: end;
     }
     
     .social-networks > li {
@@ -239,7 +239,7 @@ p {
     .social-networks i {
         font-size: 160%;
         margin: 1%;
-        padding: 5%;
+        padding: 2%;
         color: #FFF3B0;
     }
     
