@@ -228,8 +228,19 @@ p {
         
     }
 
+    #mailing-list {
+        font-size: 160%;
+        text-align: start;
+        font-family: Cinzel, sans-serif;
+    }
+
+
+
+
+    /* social networks */
     .social-networks {
         text-align: end;
+        margin: 0;
     }
     
     .social-networks > li {
