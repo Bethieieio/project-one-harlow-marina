@@ -179,7 +179,8 @@ p {
       width: 300px;
       height: auto;
   }
-
+ 
+  /* map */
   .mapouter {
       position:relative;
       text-align:right;
@@ -229,6 +230,7 @@ p {
         align-items: center;
         display: flex;
         justify-content: space-around;
+        padding: 40px;
         
     }
 
@@ -241,10 +243,21 @@ p {
     }
 
     #mailing-email {
-
+        font-size: 0.8em;
+        width: 250px;
     }
 
-    
+    #sign-up-button {
+        width: 100px;
+        background-color: #FFF3B0;
+    }
+
+    #mailing-email-button {
+        display: flex ;
+        flex-direction: row;
+        font-size: 0.8em;
+    }
+
 
 
 
