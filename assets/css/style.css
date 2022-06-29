@@ -259,10 +259,20 @@ p {
         font-size: 0.8em;
     }
 
+    #top-button {
+        font-size: 250%;
+        color: #FFF3B0;
+        border: 2px solid #FFF3B0;
+        padding: 5px;
+        margin-right: 200px ;
+    }
 
-
-
-
+    #top-button:hover {
+        color: #3c54a3;
+        border-color: #3c54a3;
+        background-color: #FFF3B0;
+    }
+    
     /* social networks */
     .social-networks {
         text-align: end;
