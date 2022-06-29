@@ -131,13 +131,27 @@ p {
 
   /* Mooring Fees Table */
   table{
-    
+    display: flex;
+    justify-content: center;
   }
 
   table, th, td {
-      border: 2px solid black;
       padding: 5px;
+      border-collapse: collapse;
+
   }
+
+  td {
+      background-color: #3c54a3;
+      color: #FFF3B0;
+      border: 2px solid #FFF3B0;
+  }
+
+  th {
+    color: #3c54a3;
+    background-color: #FFF3B0;
+    border: 3px solid #3c54a3 ;
+}
 
 
   /* contact us */
