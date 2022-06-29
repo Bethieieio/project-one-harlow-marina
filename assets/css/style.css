@@ -138,11 +138,12 @@ p {
   table{
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
   }
 
   table, th, td {
       padding: 5px;
-      border-collapse: collapse;
+      border-radius: 30px;
 
   }
 
@@ -152,7 +153,8 @@ p {
       border: 2px solid #FFF3B0;
       font-family: Zilla Slab, sans-serif;
       font-size: 1em;
-      padding-left: 62px;
+      padding: 10px;
+      text-align: center;
   }
 
   th {
@@ -161,8 +163,16 @@ p {
     border: 3px solid #3c54a3 ;
     font-family: Cinzel, sans-serif;
     font-size: 0.75em;
-    padding: 10px;
+    padding: 30px;
 }
+
+    #table-description {
+        text-align: center;
+        width: auto;
+        display: block;
+    }
+
+
 
 
   /* contact us */
