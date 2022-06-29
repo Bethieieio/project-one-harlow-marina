@@ -129,6 +129,17 @@ p {
       /* margin: 20px 0; */
   }
 
+  /* Mooring Fees Table */
+  table{
+    
+  }
+
+  table, th, td {
+      border: 2px solid black;
+      padding: 5px;
+  }
+
+
   /* contact us */
     input {
         font-family: Zilla Slab, sans-serif;
