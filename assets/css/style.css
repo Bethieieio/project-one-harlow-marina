@@ -111,7 +111,6 @@ p {
       scroll-margin-top: 4em;
   }
 
-  /* sections layout*/
   .section-content {
       display: flex;
       justify-content: space-evenly;
@@ -131,7 +130,6 @@ p {
       background-color: #3c54a3;
       border-radius: 50px;
       color: #FFF3B0;
-      /* margin: 20px 0; */
   }
 
   /* Mooring Fees Table */
@@ -171,6 +169,8 @@ p {
         width: auto;
         display: block;
     }
+
+    /* Clubhouse Cafe */
 
 
 
@@ -321,7 +321,6 @@ p {
         background-color: #FFF3B0;
     }
     
-    /* social networks */
     .social-networks {
         text-align: end;
         margin: 0;
