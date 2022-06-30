@@ -67,7 +67,7 @@ p {
     margin-bottom: 0.1em;
   }
   
-  .slogen{
+  .slogan{
     font-family: 'Yellowtail', sans-serif;
     font-size: 3rem;
     color: black;
@@ -166,7 +166,7 @@ p {
     padding: 30px;
 }
 
-    #table-description {
+    .description {
         text-align: center;
         width: auto;
         display: block;
