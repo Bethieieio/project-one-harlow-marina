@@ -35,6 +35,10 @@ h2 {
     margin-top: 20px;
 }
 
+h3 {
+
+}
+
 p {
     width: 50%;
     margin-top: 1px;
@@ -171,6 +175,35 @@ p {
     }
 
     /* Clubhouse Cafe */
+    #cafe-offers {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    #cream-tea {
+        text-align: center;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 01.5rem;
+    }
+
+    #soup {
+        text-align: center;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 01.5rem;
+    }
+
+    #cake {
+        text-align: center;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 01.5rem;
+    }
+
+    #lamb-shank {
+        text-align: center;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 01.5rem;
+    }
 
 
 
