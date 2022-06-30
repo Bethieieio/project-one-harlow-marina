@@ -216,6 +216,8 @@ p {
       font-size: 1em;
       font-family: Zilla Slab, sans-serif;
       color: #3c54a3;
+      width: 15em;
+      height: 20em;
 
   }
 
@@ -223,7 +225,7 @@ p {
       background-color: #3c54a3;
       color: #FFF3B0;
       font-family: Cinzel, sans-serif;
-      width: 300px;
+      width: 15em;
       height: auto;
   }
  
