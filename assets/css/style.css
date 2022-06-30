@@ -179,30 +179,33 @@ p {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
+        text-align: center;
+        font-family: Zilla Slab, sans-serif;
+        font-size: 01.5rem;
+        margin: 60px;;
     }
 
     #cream-tea {
-        text-align: center;
-        font-family: Zilla Slab, sans-serif;
-        font-size: 01.5rem;
+        border: 1px solid black;
+        padding: 1em 4em 1em 4.5em;
+      
     }
 
     #soup {
-        text-align: center;
-        font-family: Zilla Slab, sans-serif;
-        font-size: 01.5rem;
+        border: 1px solid black;
+        padding: 1em 4em 1em 4.5em;
+        
     }
 
     #cake {
-        text-align: center;
-        font-family: Zilla Slab, sans-serif;
-        font-size: 01.5rem;
+        border: 1px solid black;
+        padding: 1em 4em 1em 4.5em;
     }
 
     #lamb-shank {
-        text-align: center;
-        font-family: Zilla Slab, sans-serif;
-        font-size: 01.5rem;
+        border: 1px solid black;
+        padding: 1em 4em 1em 4.5em;
+      
     }
 
 
