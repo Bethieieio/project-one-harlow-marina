@@ -36,7 +36,13 @@ h2 {
 }
 
 h3 {
+    color: #FFF3B0;
+    font-family: Zilla Slab, sans-serif;
+}
 
+h4 {
+    color: white;
+    font-family: Zilla Slab, sans-serif;
 }
 
 p {
@@ -45,6 +51,7 @@ p {
     padding-bottom: 10px;
     font-family: Zilla Slab, sans-serif;
     display: flex;
+    line-height: 60px;
 }
 
 
@@ -172,6 +179,7 @@ p {
         text-align: center;
         width: auto;
         display: block;
+        margin: 10px
     }
 
     /* Clubhouse Cafe */
@@ -180,31 +188,59 @@ p {
         flex-direction: row;
         justify-content: space-around;
         text-align: center;
-        font-family: Zilla Slab, sans-serif;
-        font-size: 01.5rem;
-        margin: 60px;;
+        font-size: 1.5rem;
+        margin-bottom: 60px;
+        margin-left: 60px;
+        margin-right: 60px;                                                                                                                                     
     }
 
     #cream-tea {
         border: 1px solid black;
-        padding: 1em 4em 1em 4.5em;
+        border-radius: 30px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)),  url(../images/cream-tea.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: right ;
+        margin: 10px;
+        font-size: 1em;
+        width: 25%;
+        text-shadow: 2px 2px black;
       
     }
 
     #soup {
         border: 1px solid black;
-        padding: 1em 4em 1em 4.5em;
-        
+        border-radius: 30px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/soup.jpg);
+        background-repeat: no-repeat;
+        background-size: cover ;
+        margin: 10px;
+        width: 25%;
+        text-shadow: 2px 2px black;
     }
 
     #cake {
         border: 1px solid black;
-        padding: 1em 4em 1em 4.5em;
+        border-radius: 30px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/cake.jpg);
+        background-repeat: no-repeat;
+        background-size: cover ;
+        background-position: right;
+        margin: 10px;
+        width: 25%;
+        text-shadow: 2px 2px black;
     }
 
-    #lamb-shank {
+    #steak {
         border: 1px solid black;
-        padding: 1em 4em 1em 4.5em;
+        border-radius: 30px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/steak.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: right;
+        margin: 10px;
+        width: 25%;
+        text-shadow: 2px 2px black;
       
     }
 
