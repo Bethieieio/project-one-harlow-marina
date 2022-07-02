@@ -424,6 +424,13 @@ p {
     .success-page {
         color: #3c54a3; 
         text-align: center;
+        font-size: 2em;
+        font-family: Cinzel, sans-serif;
+    }
+
+    .success-tick {
+        font-size: 5em;
+        color: green;
     }
 
 
