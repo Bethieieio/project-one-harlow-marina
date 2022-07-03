@@ -276,6 +276,7 @@ p {
   #form-section {
     display: flex;
     justify-content: space-evenly;
+    padding-bottom: 30px;
   }
 
   select {
@@ -289,7 +290,7 @@ p {
       font-family: Zilla Slab, sans-serif;
       color: #3c54a3;
       width: 15em;
-      height: 20em;
+      height: 15em;
 
   }
 
@@ -320,6 +321,7 @@ p {
     #right-side-form {
         display: flex;
         flex-direction: column;
+        justify-content: space-between;
     }  
     
     .phone-number {
@@ -426,6 +428,10 @@ p {
         text-align: center;
         font-size: 2em;
         font-family: Cinzel, sans-serif;
+    }
+
+    #success-page-small {
+        color: #3c54a3;
     }
 
     .success-tick {
