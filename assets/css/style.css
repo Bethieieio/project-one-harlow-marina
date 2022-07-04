@@ -591,6 +591,14 @@ p {
         font-size: 100%;
         padding-bottom: 2%;
         }
+
+        .success-page {
+            font-size: 1.5em;
+        }
+    
+        #success-page-small {
+            color: #3c54a3;
+        }
     
         
 
