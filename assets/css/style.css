@@ -468,15 +468,28 @@ p {
 
         section {
             font-size: 1em;
-            margin: 50px 5% 50px 5%;
-            background-color: #FFF3B0;
-            border: 2px solid #3c54a3;
-            color: black;
-            border-radius: 50px;
+        }
+
+        .section-content {
+            display: flex;
+            flex-direction: column;
         }
         
          p {
             line-height: 20px;
+            width: 90%;
+            margin: 5%;
+        }
+
+        #night-marina {
+            height: auto;
+            width: 90%;
+            margin: 5%;
+        }
+
+        #facilities-list {
+            width: 90%;
+            margin: 5%;
         }
 
         .form-structure {
@@ -507,6 +520,16 @@ p {
         #mobile-nav ul {
             flex-direction: column;
             display: none;
+        }
+
+        .hamburger:hover + ul,
+        .hamburger:focus + ul,
+            .hamburger:active + ul {
+            display: flex !important;
+        }
+
+        .nav-jump {
+            scroll-margin-top: 0em;
         }
     }
 
