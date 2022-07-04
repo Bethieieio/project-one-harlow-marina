@@ -348,7 +348,7 @@ p {
         margin-left: 0;
         border: 5px solid #3c54a3;
         width: auto;
-        height: 500px;
+        height: 400px;
 
     }
 
@@ -506,7 +506,6 @@ p {
 
          #right-side-form {
              padding: 9%;
-        
          }
 
         #desktop-nav {
@@ -542,10 +541,33 @@ p {
         }
 
         #cafe-offers {
-            display: flex;
             flex-direction: column;
-            justify-content: space-around;
-            width: 250%;
+        }
+
+        #cream-tea {
+            width: 100%;
+        }
+
+
+        #soup {
+            width: 100%;
+        }
+
+
+        #cake {
+            width: 100%;
+        }
+
+
+        #steak {
+            width: 100%;
+        }
+
+        .phone-number {
+            width: auto;
+            height: 250px;
+            width: auto;
+            margin-right: 0.7%;
         }
 
         footer {
