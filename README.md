@@ -123,5 +123,8 @@ The cafe section of the website shows the latest offers of Clubhouse Cafe. Peopl
 ![image](assets/images/form-print-screen-two.png)
 ![image](assets/images/success-print-screen.png)
 The form is a one stop place to ask any queries regarding the marina. There is a drop down menu directing what section of the marina the user is asking the query to (general, mooring, cafe, chandlery). When they click send to the form, it will take them to another page to confirm that their message has been sent and someone will be in contact regarding the users query.
-To the right of the form there is a google map showing direction to where the marina is.
+To the right of the form there is a google map showing the location of the marina.
 
+![image](assets/images/footer-pront-screen.png)
+The footer at the very bottom of the page contains a mailing list for the user to sign up to for updates and the lastest deals.
+It also links to all the company's social media (Facebook, Instagram, Youtube and Twitter). Finally, it has a button with an arrow pointing upwards. Once clicked, it will take the user back to the top of the page.
