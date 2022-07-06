@@ -11,7 +11,7 @@ Harlow Marina website was created by Beth Allaway. It is to advertise whats on o
 - Target Audience 
 - Visitor Goals
 - Business Goals
-- User Stories?
+- User Stories
 - Design Choices
 - Wire Frames?
 
@@ -19,43 +19,99 @@ Harlow Marina website was created by Beth Allaway. It is to advertise whats on o
 - Hero Image
 - Nav Bar
 - Footer
-- Testimonials?
-- About Us
+- Welcome section
 - Clubhosue Cafe Menu
 - Mooring Fees
 - Contact Us
 - Success page
-- Features left to impliment 
+- Features left to impliment
 
 ## 3. Technologies Used
--  VS Code.
--  HTML 5
--  CSS
--  Google Fonts
--  Google Map
--  Font Awesome
--  External Hyperlinks
+- VS Code.
+- HTML 5
+- CSS
+    - Scroll behaviour and scroll margin
+- Google Fonts
+- Google Map
+- Font Awesome
+- External Hyperlinks
+- Github
+- git
+- Cat ipsum
+- Coolors
 
 <!-- and so on... -->
 
 ## 1. User Experience 
 
-### Target Audience 
+### Target Audience
 This website is aimed for people in and around Harlow that are wanting to moor their craft in a safe and secure place, while giving them a sense of a community.
 
-### Visitor Goals 
+### Visitor Goals
 This site allows people to find out what to expect of the marina by showing what it has to offer.
 Visitors are able to contact the different parts of the marina through the website. The site also shows where the marina is located.
 
 ### Business Goals
-Business wise, the websites aim is to advertise to as many people as possible.
-The more people that will see the site and see what services they offer, the more people will enquire about mooring there, purchase items at the chandlery or to use facilities like pump out and diesel purchases.
+Business wise, the website's aim is to advertise to as many people as possible.
+The more people that will see the site and see what services are on offer, the more people will enquire about mooring there, purchase items at the chandlery or to use facilities like pump out and diesel purchases. The cafe is also a great place for visitors without a vessel in the marina, increasing footfall to the cafe will increase the profits made by the marina as a whole.
 
 ### User Stories
-As somebody who owns a narrowboat, I want somewhere safe to moor my boat in an area close to my home.
-I would need the cost of how much mooring would cost for my 57ft narrowboat for 4 months for the winter.
-I also need somewhere I can shop for parts for my boat and to buy things needed like fuel and firewood before I go out on the river all under one roof.
+The website should cover the below user stories. Each user story should be met by the website in order to cover the requirements of this project.
 
-#### Expectations
-I would like to ask specific questions to the right people who know stock of parts they have in stock or whether they will need to order the parts in. I need to know how much the going rate is for a craft size I own in writing before I enquire about mooring here.
+- As a user I want to find where the marina is located
 
+- As a user I want to be able to call the marina 
+
+- As a user I want to see a list of facilities at the marina 
+
+- As a user I want to be able to see what is for sale at the cafe
+
+- As a user I want to be able to sign up to the mailing list
+
+- As a user I want to be able to find the marina's social pages
+
+- As a user I want to find information about mooring fees at the marina on a per monthly period
+
+- As a user I want to find information about mooring fees at the marina on a per annual period
+
+- As a user I want to find information about mooring fees at the marina on a per quarterly period
+
+### Design Choices
+
+#### SPA
+
+I opted for a Single Page Application (SPA) to increase SEO as the description and content for each page would've been very minimal. The SPA still has a navigation menu which uses achors to navigate to other sections using a smooth scrolling ability. I also used a scroll margin property on the body to avoid clashes with the navigation menu which uses a position sticky property to stay at the top of the page when scrolling downwards.
+
+#### Colours
+
+I used [Coolors](https://coolors.co) to produce a colour pallet for the marina website. I wanted a deep royal blue for the primary colour and chose a complimentary secondary cream colour to go with it.
+
+easy to read colors
+
+#### Icons
+
+I chose to use fontawesome for icons in the marina website. I used them in the titles to highlight the section's information at a glance. I also used the icon set for brand icons for the social media links. Additionally I added a return-to-top button which I used an up arrow to make it obvious that the user wil lbe returned to the top of the page.
+I also added a tick mark to the success page on contact form submissions to indicate that a successful action has occured.
+
+#### Mobile implementation
+
+The site has a breakpoint of `800px` which is used to differentiate between mobile and desktop devices.
+
+##### Mobile navigation
+
+I chose to build a separate navigation for mobile devices as the desktop navigation is a little too large for the mobile. The mobile navigation bar has a hamburger icon which when pressed (or hovered/focused) opens up a menu with the anchors to the other sections of the page.
+
+
+![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/print-screen-one.png)
+
+Here you can see the top of the webite, one of the first things the user would see would be the navigation bar that is clearly laid out so that the user knows what to expect from this website.
+
+
+![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/facilities-print-screen.png)
+
+Here the user will know what facilities the marina has on the site.
+The sticky navigation bar makes the website easy to navigate without endless scrolling to find the section of the website the user requires.
+
+![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/table-print-screen.png)
+
+The user can view this table for the cost of keeping their craft moored at the marina. By following horizontally from the length and width of their boat, can they can see the cost of mooring annually, quarterly and monthly. 
