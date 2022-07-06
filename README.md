@@ -102,16 +102,26 @@ The site has a breakpoint of `800px` which is used to differentiate between mobi
 I chose to build a separate navigation for mobile devices as the desktop navigation is a little too large for the mobile. The mobile navigation bar has a hamburger icon which when pressed (or hovered/focused) opens up a menu with the anchors to the other sections of the page.
 
 
-![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/print-screen-one.png)
+![image](assets/images/print-screen-one.png)
 
 Here you can see the top of the webite, one of the first things the user would see would be the navigation bar that is clearly laid out so that the user knows what to expect from this website.
 
 
-![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/facilities-print-screen.png)
+![image](assets/images/facilities-print-screen.png)
 
 Here the user will know what facilities the marina has on the site.
 The sticky navigation bar makes the website easy to navigate without endless scrolling to find the section of the website the user requires.
 
-![image](/Users/bethallaway/code/project-one-harlow-marina/assets/images/table-print-screen.png)
+![image](assets/images/table-print-screen.png)
 
 The user can view this table for the cost of keeping their craft moored at the marina. By following horizontally from the length and width of their boat, can they can see the cost of mooring annually, quarterly and monthly. 
+
+![image](assets/images/cafe-print-screen.png)
+The cafe section of the website shows the latest offers of Clubhouse Cafe. People can check in daily and weekly for the offers of cake, soup, dinner and a limited edition deal.
+
+![image](assets/images/form-print-screen-one.png)
+![image](assets/images/form-print-screen-two.png)
+![image](assets/images/success-print-screen.png)
+The form is a one stop place to ask any queries regarding the marina. There is a drop down menu directing what section of the marina the user is asking the query to (general, mooring, cafe, chandlery). When they click send to the form, it will take them to another page to confirm that their message has been sent and someone will be in contact regarding the users query.
+To the right of the form there is a google map showing direction to where the marina is.
+
