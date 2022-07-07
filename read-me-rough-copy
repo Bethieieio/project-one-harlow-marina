@@ -1,0 +1,132 @@
+# Harlow Marina - a community and boat moorings
+
+## Introduction 
+Harlow Marina website was created by Beth Allaway. It is to advertise whats on offer, how to contact, and infomation about the marina.
+
+<!-- https://amiresponsive.co.uk/ -->
+
+## Table of Contents
+
+## 1. User Experience
+- Target Audience 
+- Visitor Goals
+- Business Goals
+- User Stories
+- Design Choices
+- Wire Frames?
+
+## 2. Features
+- Hero Image
+- Nav Bar
+- Footer
+- Welcome section
+- Clubhosue Cafe Menu
+- Mooring Fees
+- Contact Us
+- Success page
+- Features left to impliment
+
+## 3. Technologies Used
+- VS Code.
+- HTML 5
+- CSS
+    - Scroll behaviour and scroll margin
+- Google Fonts
+- Google Map
+- Font Awesome
+- External Hyperlinks
+- Github
+- git
+- Cat ipsum
+- Coolors
+
+<!-- and so on... -->
+
+## 1. User Experience 
+
+### Target Audience
+This website is aimed for people in and around Harlow that are wanting to moor their craft in a safe and secure place, while giving them a sense of a community.
+
+### Visitor Goals
+This site allows people to find out what to expect of the marina by showing what it has to offer.
+Visitors are able to contact the different parts of the marina through the website. The site also shows where the marina is located.
+
+### Business Goals
+Business wise, the website's aim is to advertise to as many people as possible.
+The more people that will see the site and see what services are on offer, the more people will enquire about mooring there, purchase items at the chandlery or to use facilities like pump out and diesel purchases. The cafe is also a great place for visitors without a vessel in the marina, increasing footfall to the cafe will increase the profits made by the marina as a whole.
+
+### User Stories
+The website should cover the below user stories. Each user story should be met by the website in order to cover the requirements of this project.
+
+- As a user I want to find where the marina is located
+
+- As a user I want to be able to call the marina 
+
+- As a user I want to see a list of facilities at the marina 
+
+- As a user I want to be able to see what is for sale at the cafe
+
+- As a user I want to be able to sign up to the mailing list
+
+- As a user I want to be able to find the marina's social pages
+
+- As a user I want to find information about mooring fees at the marina on a per monthly period
+
+- As a user I want to find information about mooring fees at the marina on a per annual period
+
+- As a user I want to find information about mooring fees at the marina on a per quarterly period
+
+### Walkthrough
+
+![image](assets/images/print-screen-one.png)
+
+Here you can see the top of the webite, one of the first things the user would see would be the navigation bar that is clearly laid out so that the user knows what to expect from this website.
+
+
+![image](assets/images/facilities-print-screen.png)
+
+Here the user will know what facilities the marina has on the site.
+The sticky navigation bar makes the website easy to navigate without endless scrolling to find the section of the website the user requires.
+
+![image](assets/images/table-print-screen.png)
+
+The user can view this table for the cost of keeping their craft moored at the marina. By following horizontally from the length and width of their boat, can they can see the cost of mooring annually, quarterly and monthly. 
+
+![image](assets/images/cafe-print-screen.png)
+The cafe section of the website shows the latest offers of Clubhouse Cafe. People can check in daily and weekly for the offers of cake, soup, dinner and a limited edition deal.
+
+![image](assets/images/form-print-screen-one.png)
+![image](assets/images/form-print-screen-two.png)
+![image](assets/images/success-print-screen.png)
+The form is a one stop place to ask any queries regarding the marina. There is a drop down menu directing what section of the marina the user is asking the query to (general, mooring, cafe, chandlery). When they click send to the form, it will take them to another page to confirm that their message has been sent and someone will be in contact regarding the users query.
+To the right of the form there is a google map showing the location of the marina.
+
+![image](assets/images/footer-pront-screen.png)
+The footer at the very bottom of the page contains a mailing list for the user to sign up to for updates and the lastest deals.
+It also links to all the company's social media (Facebook, Instagram, Youtube and Twitter). Finally, it has a button with an arrow pointing upwards. Once clicked, it will take the user back to the top of the page.
+
+### Design Choices
+
+#### SPA
+
+I opted for a Single Page Application (SPA) to increase SEO as the description and content for each page would've been very minimal. The SPA still has a navigation menu which uses achors to navigate to other sections using a smooth scrolling ability. I also used a scroll margin property on the body to avoid clashes with the navigation menu which uses a position sticky property to stay at the top of the page when scrolling downwards.
+
+#### Colours
+
+I used [Coolors](https://coolors.co) to produce a colour pallet for the marina website. I wanted a blue #3c54a3; for the primary colour and chose a complimentary yellow #FFF3B0 colour to go with it. I chose these colors because they are bright and summery The letters are easy to read when the the othe colour is the background.
+I also used black and white.
+
+![image](assets/images/coolors.png)
+
+#### Icons
+
+I chose to use fontawesome for icons in the marina website. I used them in the titles to highlight the section's information at a glance. I also used the icon set for brand icons for the social media links. Additionally I added a return-to-top button which I used an up arrow to make it obvious that the user wil lbe returned to the top of the page.
+I also added a tick mark to the success page on contact form submissions to indicate that a successful action has occured.
+
+#### Mobile implementation
+
+The site has a breakpoint of `800px` which is used to differentiate between mobile and desktop devices.
+
+##### Mobile navigation
+
+I chose to build a separate navigation for mobile devices as the desktop navigation is a little too large for the mobile. The mobile navigation bar has a hamburger icon which when pressed (or hovered/focused) opens up a menu with the anchors to the other sections of the page.
