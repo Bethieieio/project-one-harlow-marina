@@ -34,4 +34,11 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 - To advertise the facilities the marina to show them the site is a one stop location for boatin needs.
 - To show the current up to date mooring fees
 
+### Wireframes
+
+### Colour Schemes
+- I used [Coolors](https://coolors.co) to help me choose the above colours of #FFF3B0 yellow and #3c54a3 blue.
+They are colours that represent the sun and water respectively and both colours stand out and are easy to see as text when the other colour is its background partner. I also used black and white as black can be seen with the yelloe background and white to give the site cleaniness and a llight airy feel.
+![image](assets/images/coolors.png)
+
 
