@@ -26,3 +26,12 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 - As a user I want to find information about mooring fees at the marina on a per monthly period
 - As a user I want to find information about mooring fees at the marina on a per annual period
 - As a user I want to find information about mooring fees at the marina on a per quarterly period
+
+### Site Aims
+- To educate users about the marina 
+- To make the user up to date with cafe offers
+- To easily communicate with users for any queries they have
+- To advertise the facilities the marina to show them the site is a one stop location for boatin needs.
+- To show the current up to date mooring fees
+
+
