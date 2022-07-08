@@ -7,7 +7,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: white;
+    background-color: #FFFF;
     background-image: url(../images/wall-background.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ section {
     margin: 50px 5% 50px 5%;
     background-color: #FFF3B0;
     border: 2px solid #3c54a3;
-    color: black;
+    color: #000000;
     border-radius: 50px;
 }   
 
@@ -45,13 +45,12 @@ h3 {
 }
 
 h4 {
-    color: white;
+    color: #FFFF;
     font-family: Zilla Slab, sans-serif;
 }
 
 p {
     width: 50%;
-    margin-top: 1px;
     padding-bottom: 10px;
     font-family: Zilla Slab, sans-serif;
     display: flex;
@@ -85,7 +84,7 @@ p {
   .slogan{
     font-family: 'Yellowtail', sans-serif;
     font-size: 3rem;
-    color: black;
+    color: #000000;
   }
 
 /* nav bar */
@@ -204,7 +203,7 @@ p {
     }
 
     #cream-tea {
-        border: 1px solid black;
+        border: 1px solid #000000;
         border-radius: 30px;
         background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)),  url(../images/cream-tea.jpg);
         background-repeat: no-repeat;
@@ -213,23 +212,23 @@ p {
         margin: 10px;
         font-size: 1em;
         width: 25%;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px #000000;
       
     }
 
     #soup {
-        border: 1px solid black;
+        border: 1px solid #000000;
         border-radius: 30px;
         background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/soup.jpg);
         background-repeat: no-repeat;
         background-size: cover ;
         margin: 10px;
         width: 25%;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px #000000;
     }
 
     #cake {
-        border: 1px solid black;
+        border: 1px solid #000000;
         border-radius: 30px;
         background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/cake.jpg);
         background-repeat: no-repeat;
@@ -237,11 +236,11 @@ p {
         background-position: right;
         margin: 10px;
         width: 25%;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px #000000;
     }
 
     #steak {
-        border: 1px solid black;
+        border: 1px solid #000000;
         border-radius: 30px;
         background-image: linear-gradient(rgba(0, 0, 0, 0.4),     rgba(0, 0, 0, 0.4)), url(../images/steak.jpg);
         background-repeat: no-repeat;
@@ -249,7 +248,7 @@ p {
         background-position: right;
         margin: 10px;
         width: 25%;
-        text-shadow: 2px 2px black;
+        text-shadow: 2px 2px #000000;
       
     }
 
@@ -355,8 +354,8 @@ p {
     .phone-number:hover {
         background-image: url(../images/porthole-cat.png);
         background-size: 100% 100%;
-        text-shadow: 2px 2px black;
-        color: white;
+        text-shadow: 2px 2px #000000;
+        color: #FFFF;
 
     }
 
@@ -502,6 +501,7 @@ p {
 
         #form-section {
         flex-direction: column;
+        padding: 7%;
         }
 
          #right-side-form {

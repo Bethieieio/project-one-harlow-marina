@@ -11,7 +11,7 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 
 ## Planning Stage
 ### Target Audience
-- Users who alreadt=y have a boat and want to store it in a marina.
+- Users who already have a boat and want to store it in a marina.
 - Users who want to find the latest offers at the sites cafe
 - Users who want to contact the marina team
 - Users who are new to boating and want to find more about inland water life.
@@ -33,8 +33,6 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 - To easily communicate with users for any queries they have
 - To advertise the facilities the marina to show them the site is a one stop location for boatin needs.
 - To show the current up to date mooring fees
-
-### Wireframes <<<<MAKE WIREFRAMES BETH!!!!>>>>
 
 ### Colour Schemes
 - I used [Coolors](https://coolors.co) to help me choose the above colours of #FFF3B0 yellow and #3c54a3 blue.
@@ -71,6 +69,8 @@ When the user hovers over one of its links, a yellow line appears underneath the
 When the user is at the very top of the page, the nav bar is located just below the hero image.
 When the user scrolls down the page or uses the links in the nav bar, it then sticks to the top of the page.
 When the user scrolls back to the top, it goes backk to its original place.
+
+#### The Welcome Section        
 
 
 
