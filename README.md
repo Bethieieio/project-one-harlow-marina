@@ -38,14 +38,29 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 
 ### Colour Schemes
 - I used [Coolors](https://coolors.co) to help me choose the above colours of #FFF3B0 yellow and #3c54a3 blue.
-They are colours that represent the sun and water respectively and both colours stand out and are easy to see as text when the other colour is its background partner. I also used black and white as black can be seen with the yelloe background and white to give the site cleaniness and a llight airy feel.
+They are colours that represent the sun and water respectively and both colours stand out and are easy to see as text when the other colour is its background partner. I also used black and white as black can be seen with the yellow background and white to give the site cleaniness and a llight airy feel (background).
 ![image](assets/images/coolors.png)
 
 ### Typeography 
 - [Google-Fonts](https://fonts.google.com/) is what used to pick the three types of font I have on the website.
-- Cinzel used in headings and the nav bar. It is a bold stand out presence.
-- Yellowtail is only used for the motto. I just really like it, very flowy
-- Zilla Slab used in all other text. Very simple and easy to read.
+- Cinzel used in headings and the nav bar. It is a bold stand out presence with its all caps look.
+- Yellowtail is only used for the motto. I just really like it, very flowy that matches what the motto means    .
+- Zilla Slab used in all other text. Very simple and easy to read. It matches the heading font perfectly.
+
+### Features
+
+### Hero Image, Logo and Slogan
+![image](assets/images/print-screen-one.png)
+
+#### Navigation Bar
+(Picture in above paragraph)
+The Navigation bar takes the user to all the main sections to the website.
+It has the blue background and the yellow text in the Cinzel font.
+When the user hovers over one of its links, a yellow line appears underneath the word to show it is a link.
+When the user is at the very top of the page, the nav bar is located just below the hero image.
+When the user scrolls down the page or uses the links in the nav bar, it then sticks to the top of the page.
+When the user scrolls back to the top, it goes backk to its original place.
+
 
 
 
