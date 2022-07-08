@@ -56,7 +56,11 @@ The site has one of a photograph at the marina down one of the pontoons.
 It gives a sense of where the users boat will be if they choose to moor their boat at the marina.
 The image has a white opacity of 0.5 to make the logo and slogan readable inside the image.
 
+The logo is the marinas name "Harlow Marina" it is in the Cinzel font.
+It is in the normal blue font and has the normal yellow shadow, making it stand out to the text in the same font.
+It is located in large font in the middle of the hero image, making it the first words the users would read on the site.
 
+The slogan...
 
 #### Navigation Bar
 (Picture in above paragraph)
