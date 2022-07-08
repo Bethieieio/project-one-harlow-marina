@@ -60,7 +60,8 @@ The logo is the marinas name "Harlow Marina" it is in the Cinzel font.
 It is in the normal blue font and has the normal yellow shadow, making it stand out to the text in the same font.
 It is located in large font in the middle of the hero image, making it the first words the users would read on the site.
 
-The slogan...
+The slogan is located underneath the logo. It is the only text in the YellowTail font and is a solid black colour.
+"Modern Mooring and Making Memories". The use of alliteration makes the conpany easy to remember and what they do.
 
 #### Navigation Bar
 (Picture in above paragraph)
