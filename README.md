@@ -51,6 +51,12 @@ They are colours that represent the sun and water respectively and both colours 
 
 ### Hero Image, Logo and Slogan
 ![image](assets/images/print-screen-one.png)
+A hero image is an oversized banner at the top of the website.
+The site has one of a photograph at the marina down one of the pontoons.
+It gives a sense of where the users boat will be if they choose to moor their boat at the marina.
+The image has a white opacity of 0.5 to make the logo and slogan readable inside the image.
+
+
 
 #### Navigation Bar
 (Picture in above paragraph)
