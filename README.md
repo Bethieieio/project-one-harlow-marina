@@ -42,8 +42,7 @@ They are colours that represent the sun and water respectively and both colours 
 - Yellowtail is only used for the motto. I just really like it, very flowy that matches what the motto means    .
 - Zilla Slab used in all other text. Very simple and easy to read. It matches the heading font perfectly.
 
-### Features
-
+## Page Content 
 ### Hero Image, Logo and Slogan
 - A hero image is an oversized banner at the top of the website.
 - The site has one of a photograph at the marina down one of the pontoons.
@@ -59,7 +58,7 @@ They are colours that represent the sun and water respectively and both colours 
 - "Modern Mooring and Making Memories". The use of alliteration makes the company easy to remember and what they do.
 ![image](assets/images/print-screen-one.png)
 
-#### Navigation Bar
+### Navigation Bar
 (Picture in above paragraph)
 - The Navigation bar takes the user to all the main sections to the website.
 - It has the blue background and the yellow text in the Cinzel font.
@@ -68,20 +67,21 @@ They are colours that represent the sun and water respectively and both colours 
 - When the user scrolls down the page or uses the links in the nav bar, it then sticks to the top of the page.
 - When the user scrolls back to the top, it goes backk to its original place.
 
-#### Sections
+### Sections
 - Each sections are divided in the yellow boxes with the blue border. 
+- The main text colour is mostly black, so break up the blue and yellow.
 - The colours stand out from eachother and make it easy to read.
 - They each have an icon in the title for visual context.
 - The title font is in Cinzel, and the main text is in Zilla Slab.
 
-#### The Welcome Section
+### The Welcome Section
 - The title icon is an anchor.
 - The welcome section welcome the user to the site. 
 - It thanks the customer for visiting and explaining in a nutshell what the marina is for.
-The image in the section is one of the marina buildings at night.
+- The image in the section is one of the marina buildings at night.
 ![image](UNABLE TO ADD IMAGE) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#### The Facilities Section
+### The Facilities Section
 - The title icon is a shop.
 - It gives a brief description of when the marina was first established.
 - Tells the user how many spaces it has.
@@ -89,7 +89,7 @@ The image in the section is one of the marina buildings at night.
 - The list of facilities is in a blue box with yellow writing to stand out from the description.
 ![image](assets/images/facilities-print-screen.png)
 
-#### The Moor With Us Section
+### The Moor With Us Section
 - The title icon is a boat.
 - It has four columns Boat Size, Annual Payment, Quarterly Payment and Monthly Payment.
 - The headings are the reverse colours of the data so they stand out more to make the table easier to understand.
@@ -97,16 +97,17 @@ The image in the section is one of the marina buildings at night.
 - At the bottom there is an extra cost if an end jetty is required. 
 ![image](assets/images/table-print-screen.png)
 
-#### Clubhouse Cafe Section
+### Clubhouse Cafe Section
 - The title icon is a coffee mug.
 - The four images show the lastest offers at the cafe
 - The images have a black 0.4 opacity to make the writing more visible against the bright colours of the food.
 ![image](assets/images/cafe-print-screen.png)
 
-#### Contact Us Section
+### Contact Us Section
 - The title icon is a phone.
 - On the left hand side there is a form to email the marina
 - The customer inputs their name, email address, which deparment the question is for and the message.
+- All the form has to be filled in for it to be sent.
 - When the customer sends the form, another page opens to say that their enquiry as been sent.
 - The background of the form is the same as the overall background to the webiste, so apprears to be see through.
 - The success page has a green tick icon.
@@ -116,6 +117,17 @@ The image in the section is one of the marina buildings at night.
 ![image](assets/images/form-print-screen-one.png)
 ![image](assets/images/form-print-screen-two.png)
 ![image](assets/images/success-print-screen.png)
+
+### Footer
+- The footer's main colour is the blue with yellow text.
+- It has a mailing list for users who wish to keep up to date with news. When the users email has been submitted, the success page appears.
+- There is an up arrow icon, once clicked, it sends the user back to the very top of the site.
+- The footer also includes four links to the marinas social network pages (Facebook, Youtube, Twitter and Instagram.) Once these are clicked, they open a new tab.
+
+## Future Enhancements
+gallery
+cafe menu
+events
 
 
 
