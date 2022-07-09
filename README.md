@@ -23,9 +23,6 @@ It advertises the facilites, mooring fees, offers at the cafe and how to contact
 - As a user I want to be able to see what is for sale at the cafe
 - As a user I want to be able to sign up to the mailing list
 - As a user I want to be able to find the marina's social pages
-- As a user I want to find information about mooring fees at the marina on a per monthly period
-- As a user I want to find information about mooring fees at the marina on a per annual period
-- As a user I want to find information about mooring fees at the marina on a per quarterly period
 
 ### Site Aims
 - To educate users about the marina 
@@ -70,7 +67,26 @@ When the user is at the very top of the page, the nav bar is located just below 
 When the user scrolls down the page or uses the links in the nav bar, it then sticks to the top of the page.
 When the user scrolls back to the top, it goes backk to its original place.
 
-#### The Welcome Section        
+#### Sections
+- Each sections are divided in the yellow boxes with the blue border. 
+- The colours stand out from eachother and make it easy to read.
+- They each have an icon in the title for visual context.
+- The title font is in Cinzel, and the main text is in Zilla Slab.
+
+#### The Welcome Section
+- The title icon is an anchor.
+- The welcome section welcome the user to the site. 
+- It thanks the customer for visiting and explaining in a nutshell what the marina is for.
+The image in the section is one of the marina buildings at night.
+![image](UNABLE TO ADD IMAGE) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#### The Facilities Section
+- The title icon is a shop.
+- It gives a brief description of when the marina was first established.
+- Tells the user how many spaces it has.
+- Explaion which part of the river the  marina is and where it leads to.
+- The list of facilities is in a blue box with yellow writing to stand out from the description.
+![image](assets/images/facilities-print-screen.png)
 
 
 
