@@ -157,8 +157,10 @@ I used the following technology
 - HTML5
 - CSS3
 - [Font Awesome](https://fontawesome.com/) - for title icons
-- [Google-Fonts] (https://fonts.google.com/) - for the font
+- [Google Fonts](https://fonts.google.com/) - for the font
 - [Google-Map-Generator](https://google-map-generator.com/) - the map in contact section
+- [Cat Ipsum](http://www.catipsum.com/) - used to bulk out sections before the final text was addded.
+- [GitHub](https://github.com) - for keeping my work safe and deploying it.
 
 ## Credits
 [w3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp) The hero image was thanks to this link at w3schools.
@@ -168,8 +170,20 @@ I used the following technology
 [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) Helped me include the select option in the contact page
 
 ## Honourable Mentions
-My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
-My Mentor Richard for the calls, the confidence and calming me down.
+- My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
+- My Mentor Richard for the calls, the confidence and the courage.
+
+## Content
+- I used the code from the [Love Running Project](https://bethieieio.github.io/love-running/) for the social medoa links in the footer.
+
+## Media 
+Images of boats, cats and buildings are my own.
+The only images that are not my own are the images in the Clubhouse Cafe Section, they were all from [Flickr](https://www.flickr.com/).
+- [Cream Tea](https://www.flickr.com/photos/50094405@N04/9738024264/sizes/n/)
+- [Soup](https://www.flickr.com/photos/browneyedbaker/6778039224/sizes/n/)
+- [Cake](https://www.flickr.com/photos/21607251@N05/7177667775/sizes/n/)
+- [Steak](https://www.flickr.com/photos/sweetladysweets/5125935424/sizes/n/)
+
 
 
 
