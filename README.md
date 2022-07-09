@@ -130,6 +130,9 @@ They are colours that represent the sun and water respectively and both colours 
 - As well as the cafe offers, adding the main menu would be very useful so the users can see what food there is avaliable before coming down to visit.
 - An events / news page would be valuable. The section would keep current users at the marina up to date with news while potential users can come down for the first time at an event to see the sites.
 
+## Testing Phase
+
+
 
 
 
