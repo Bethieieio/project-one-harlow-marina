@@ -252,7 +252,7 @@ p {
         text-shadow: 2px 2px #000000;
       
     }
-    
+
   /* contact us */
     input {
         font-family: Zilla Slab, sans-serif;
@@ -536,6 +536,10 @@ p {
 
         .table-container table {
             display: table;
+        }
+
+        .vanish{
+            display: none;
         }
 
         #cafe-offers {
