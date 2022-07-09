@@ -115,6 +115,7 @@ p {
   nav a {
     text-decoration: none;
     color: #FFF3B0;
+    margin: 15px;
   }
 
   nav a:hover {
@@ -501,7 +502,7 @@ p {
 
         #form-section {
         flex-direction: column;
-        padding: 7%;
+        padding: 10%;
         }
 
          #right-side-form {
@@ -546,21 +547,25 @@ p {
 
         #cream-tea {
             width: 100%;
+            margin: 2%
         }
 
 
         #soup {
             width: 100%;
+            margin: 2%
         }
 
 
         #cake {
             width: 100%;
+            margin: 2%
         }
 
 
         #steak {
             width: 100%;
+            margin: 2%
         }
 
         .phone-number {

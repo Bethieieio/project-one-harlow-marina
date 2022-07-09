@@ -88,6 +88,15 @@ The image in the section is one of the marina buildings at night.
 - The list of facilities is in a blue box with yellow writing to stand out from the description.
 ![image](assets/images/facilities-print-screen.png)
 
+#### The Moor With Us Section
+- The title icon is a boat.
+- It has four columns Boat Size, Annual Payment, Quarterly Payment and Monthly Payment.
+- The headings are the reverse colours of the data so they stand out more to make the table easier to understand.
+- The user finds their boat length, then moves horizintal to see the price of mooring for that size.
+- At the bottom there is an extra cost if an end jetty is required. 
+![image](assets/images/table-print-screen.png)
+
+
 
 
 
