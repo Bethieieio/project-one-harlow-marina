@@ -544,29 +544,39 @@ p {
 
         #cafe-offers {
             flex-direction: column;
+            margin: 0 1rem;
         }
 
         #cream-tea {
             width: 100%;
-            margin: 2%
+            margin: 0 0 10px 0;
         }
 
 
         #soup {
             width: 100%;
-            margin: 2%
+            margin: 0 0 10px 0;
         }
 
 
         #cake {
             width: 100%;
-            margin: 2%
+            margin: 0 0 10px 0;
         }
 
 
         #steak {
             width: 100%;
-            margin: 2%
+            margin: 0 0 10px 0;
+        }
+
+        #send-button {
+            width:auto;
+        }
+
+        select {
+            width: 40%;
+            font-size: 1em;
         }
 
         .phone-number {
@@ -598,6 +608,15 @@ p {
         padding-bottom: 2%;
         }
 
+        #mailing-email {
+            width: 100%;
+        }
+
+        #mailing-email-button {
+            flex-direction: column;
+            align-items: center;
+        }    
+
         .success-page {
             font-size: 1.5em;
         }
@@ -605,10 +624,6 @@ p {
         #success-page-small {
             color: #3c54a3;
         }
-    
-        
-
-
     }
 
 
