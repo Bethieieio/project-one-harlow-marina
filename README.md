@@ -123,11 +123,12 @@ They are colours that represent the sun and water respectively and both colours 
 - It has a mailing list for users who wish to keep up to date with news. When the users email has been submitted, the success page appears.
 - There is an up arrow icon, once clicked, it sends the user back to the very top of the site.
 - The footer also includes four links to the marinas social network pages (Facebook, Youtube, Twitter and Instagram.) Once these are clicked, they open a new tab.
+![image](assets/images/footer-pront-screen.png)
 
 ## Future Enhancements
-gallery
-cafe menu
-events
+- I would love to add a gallery section to the site, that would include the buildings, the boats and the people. It would give more of an idea of what the marina is like. Maybe even include a site map too.
+- As well as the cafe offers, adding the main menu would be very useful so the users can see what food there is avaliable before coming down to visit.
+- An events / news page would be valuable. The section would keep current users at the marina up to date with news while potential users can come down for the first time at an event to see the sites.
 
 
 
