@@ -131,6 +131,24 @@ They are colours that represent the sun and water respectively and both colours 
 - An events / news page would be valuable. The section would keep current users at the marina up to date with news while potential users can come down for the first time at an event to see the sites.
 
 ## Testing Phase
+i can conclude that nothing is fucking working.
+its all a load of bollocks.
+
+## Bugs
+Its the most buggy thing ive ever seen in my life
+nothing fucking works
+and i cant fix it
+it can all fuck itself
+
+## Deployment
+I deployed my site my doing the following:-
+- Going into my repositopry on Gtihub.
+- Clicking the repository's settings.
+- On the left hand side, there is a menu item called 'Pages'
+- I made sure the Branch was on 'Main'
+- I gave the title 'project-one-harlow-marina' and clicked 'Save'
+- I clicked the link to make sure it worked.
+- I then copied the link and added it to the about section in my repository.
 
 
 
