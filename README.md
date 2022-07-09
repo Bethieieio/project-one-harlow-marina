@@ -130,15 +130,16 @@ They are colours that represent the sun and water respectively and both colours 
 - As well as the cafe offers, adding the main menu would be very useful so the users can see what food there is avaliable before coming down to visit.
 - An events / news page would be valuable. The section would keep current users at the marina up to date with news while potential users can come down for the first time at an event to see the sites.
 
-## Testing Phase
-i can conclude that nothing is fucking working.
-its all a load of bollocks.
+<!-- ## Testing Phase COME BACK TO THIS BETH  --> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+lighthouse
+w3 html thing
+css thing
 
-## Bugs
-Its the most buggy thing ive ever seen in my life
-nothing fucking works
-and i cant fix it
-it can all fuck itself
+<!-- ## Bugs COME BACK TO THIS BETH --> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Remove one column in for table on media query bug
+Bug bug bug mailing list button bug
+burger was broken a long time
+large image
 
 ## Deployment
 I deployed my site my doing the following:-
@@ -149,6 +150,29 @@ I deployed my site my doing the following:-
 - I gave the title 'project-one-harlow-marina' and clicked 'Save'
 - I clicked the link to make sure it worked.
 - I then copied the link and added it to the about section in my repository.
+- You can find the live site here. https://bethieieio.github.io/project-one-harlow-marina/
+
+## Technology
+I used the following technology 
+- HTML5
+- CSS3
+- [Font Awesome](https://fontawesome.com/) - for title icons
+- [Google-Fonts] (https://fonts.google.com/) - for the font
+- [Google-Map-Generator](https://google-map-generator.com/) - the map in contact section
+
+## Credits
+[w3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp) The hero image was thanks to this link at w3schools.
+[w3schools](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp) They also helped me create the sticky nav with this link.
+[codepen](https://codepen.io/cferdinandi/pen/GRJvozN) To allow the title to be seen with the sticky nav, Code Pen helped me out.
+[Flex Box Froggy](https://flexboxfroggy.com/) Helped me understand more about Flex.
+[Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) Helped me include the select option in the contact page
+
+## Honourable Mentions
+My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
+My Mentor Richard for the calls, the confidence and calming me down.
+
+
+
 
 
 
