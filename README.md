@@ -135,11 +135,19 @@ lighthouse
 w3 html thing
 css thing
 
-<!-- ## Bugs COME BACK TO THIS BETH --> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Remove one column in for table on media query bug
-Bug bug bug mailing list button bug
-burger was broken a long time
-large image
+## Bugs
+
+- Issue: Slow loading picture
+- Cause: The Welcome image was too large
+- Resolution: I made it smaller
+
+- Issue: I had to scroll sideways for the Moor With Us table for a mobile
+- Cause: The table is large
+- Resolution: Removed a column
+
+- Issue: I could scroll sideways on my mobile size
+- Cause: The mailing list button was overflowing
+- Resolution: Relocated it underneath email box
 
 ## Deployment
 I deployed my site my doing the following:-
@@ -163,11 +171,11 @@ I used the following technology
 - [GitHub](https://github.com) - for keeping my work safe and deploying it.
 
 ## Credits
-[w3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp) The hero image was thanks to this link at w3schools.
-[w3schools](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp) They also helped me create the sticky nav with this link.
-[codepen](https://codepen.io/cferdinandi/pen/GRJvozN) To allow the title to be seen with the sticky nav, Code Pen helped me out.
-[Flex Box Froggy](https://flexboxfroggy.com/) Helped me understand more about Flex.
-[Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) Helped me include the select option in the contact page
+- [w3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp) The hero image was thanks to this link at w3schools.
+- [w3schools](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp) They also helped me create the sticky nav with this link.
+- [codepen](https://codepen.io/cferdinandi/pen/GRJvozN) To allow the title to be seen with the sticky nav, Code Pen helped me out.
+- [Flex Box Froggy](https://flexboxfroggy.com/) Helped me understand more about Flex.
+- [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) Helped me include the select option in the contact page
 
 ## Honourable Mentions
 - My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
