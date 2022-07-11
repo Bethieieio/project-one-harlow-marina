@@ -41,18 +41,18 @@ h2 {
 
 h3 {
     color: #FFF3B0;
-    font-family: Zilla Slab, sans-serif;
+    font-family: "Zilla Slab", "sans-serif";
 }
 
 h4 {
     color: #FFFF;
-    font-family: Zilla Slab, sans-serif;
+    font-family: "Zilla Slab", "sans-serif";
 }
 
 p {
     width: 50%;
     padding-bottom: 10px;
-    font-family: Zilla Slab, sans-serif;
+    font-family: "Zilla Slab", "sans-serif";
     display: flex;
     line-height: 60px;
 }
@@ -146,7 +146,7 @@ p {
   /* facilities */
   #facilities-list {
       width: 32%;
-      font-family: Zilla Slab, sans-serif;
+      font-family: "Zilla Slab", "sans-serif";
       background-color: #3c54a3;
       border-radius: 50px;
       color: #FFF3B0;
@@ -169,7 +169,7 @@ p {
       background-color: #3c54a3;
       color: #FFF3B0;
       border: 2px solid #FFF3B0;
-      font-family: Zilla Slab, sans-serif;
+      font-family: "Zilla Slab", "sans-serif";
       font-size: 1em;
       padding: 10px;
       text-align: center;
@@ -255,7 +255,7 @@ p {
 
   /* contact us */
     input {
-        font-family: Zilla Slab, sans-serif;
+        font-family: "Zilla Slab", "sans-serif";
         font-size: 1em;
         width: 100%;
         color: #3c54a3;
@@ -288,13 +288,13 @@ p {
 
   select {
       font-size: 1em;
-      font-family: Zilla Slab, sans-serif;
+      font-family: "Zilla Slab", "sans-serif";
       color: #3c54a3;
   }
 
   textarea {
       font-size: 1em;
-      font-family: Zilla Slab, sans-serif;
+      font-family: "Zilla Slab", "sans-serif";
       color: #3c54a3;
       width: 100%;
       height: 15em;
