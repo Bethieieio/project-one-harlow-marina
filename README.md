@@ -176,6 +176,7 @@ I used the following technology
 - [codepen](https://codepen.io/cferdinandi/pen/GRJvozN) To allow the title to be seen with the sticky nav, Code Pen helped me out.
 - [Flex Box Froggy](https://flexboxfroggy.com/) Helped me understand more about Flex.
 - [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) Helped me include the select option in the contact page
+-  [Google Map Generator](https://google-map-generator.com/) used the code here to create the map for the location.
 
 ## Honourable Mentions
 - My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
