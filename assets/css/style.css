@@ -499,15 +499,15 @@ p {
 
         .form-structure {
             line-height: 20px;
-        } 
+        }
 
         #send-button {
             width: 11.5em;
         }
 
         #form-section {
-        flex-direction: column;
-        padding: 10%;
+            flex-direction: column;
+            padding: 1%;
         }
 
          #right-side-form {

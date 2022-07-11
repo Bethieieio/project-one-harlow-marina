@@ -4,6 +4,7 @@
 Harlow Marina website was created by Beth Allaway. 
 Harlow Marina is a site about information for a marina that stores craft on inland waters.
 It advertises the facilites, mooring fees, offers at the cafe and how to contact them.
+The site is aimied at people who are looking to store their boat, people who are new to boating.
 
 ![image](assets/images/am-i-responsive.png)
 
@@ -79,7 +80,7 @@ They are colours that represent the sun and water respectively and both colours 
 - The welcome section welcome the user to the site. 
 - It thanks the customer for visiting and explaining in a nutshell what the marina is for.
 - The image in the section is one of the marina buildings at night.
-![image](UNABLE TO ADD IMAGE) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+![image](assets/images/welcome-prin-screen.png)
 
 ### The Facilities Section
 - The title icon is a shop.
@@ -164,6 +165,7 @@ I deployed my site my doing the following:-
 I used the following technology 
 - HTML5
 - CSS3
+- JavaScript
 - [Font Awesome](https://fontawesome.com/) - for title icons
 - [Google Fonts](https://fonts.google.com/) - for the font
 - [Google-Map-Generator](https://google-map-generator.com/) - the map in contact section
@@ -180,6 +182,7 @@ I used the following technology
 
 ## Honourable Mentions
 - My partner [Ashleigh](https://github.com/bashleigh) For being my tech support, my rock and my cheerleader.
+she also wrote the javascript to close the hamburger when the user clicks the link.
 - My Mentor Richard for the calls, the confidence and the courage.
 
 ## Content

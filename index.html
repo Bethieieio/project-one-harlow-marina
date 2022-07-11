@@ -342,5 +342,15 @@
                 </li>
             </ul>
         </footer>
+        
+        <script>
+            document.getElementById('mobile-nav').addEventListener('click', (event) => {
+
+                if (event.target.tagName === 'A') {
+                    document.getElementById('menu-toggle').checked = false
+                }
+            })
+        </script>
+
     </body>
 </html>
