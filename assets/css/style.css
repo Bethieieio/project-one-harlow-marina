@@ -515,19 +515,26 @@ p {
             display: block;
         }
 
+
         #mobile-nav ul {
             flex-direction: column;
+        }
+
+        #menu-toggle {
             display: none;
         }
 
-        .hamburger:hover + ul,
-        .hamburger:focus + ul,
-            .hamburger:active + ul {
-            display: flex !important;
+        #menu-toggle + ul {
+            display: none;
         }
 
-        .nav-jump {
-            scroll-margin-top: 0em;
+        #menu-toggle:checked + ul {
+            display: flex;
+        }
+
+        .hamburger{
+            padding: 2%;
+            color: #FFF3B0;
         }
 
         .table-container {
