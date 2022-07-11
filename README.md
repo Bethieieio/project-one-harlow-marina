@@ -2,9 +2,9 @@
 
 ## Introduction 
 Harlow Marina website was created by Beth Allaway. 
-Harlow Marina is a site about information for a marina that stores craft on inland waters.
+Harlow Marina is a site for infomation about a marina that stores craft on inland waters.
 It advertises the facilites, mooring fees, offers at the cafe and how to contact them.
-The site is aimied at people who are looking to store their boat, people who are new to boating.
+The site is aimed at people who are looking to store their boat and people who are new to boating.
 
 ![image](assets/images/am-i-responsive.png)
 
@@ -13,34 +13,34 @@ The site is aimied at people who are looking to store their boat, people who are
 ## Planning Stage
 ### Target Audience
 - Users who already have a boat and want to store it in a marina.
-- Users who want to find the latest offers at the sites cafe
-- Users who want to contact the marina team
+- Users who want to find the latest offers at the sites cafe.
+- Users who want to contact the marina team.
 - Users who are new to boating and want to find more about inland water life.
 
 ### User Stories
-- As a user I want to find where the marina is located
-- As a user I want to be able to call the marina 
-- As a user I want to see a list of facilities at the marina 
-- As a user I want to be able to see what is for sale at the cafe
-- As a user I want to be able to sign up to the mailing list
-- As a user I want to be able to find the marina's social pages
+- As a user I want to find where the marina is located.
+- As a user I want to be able to call the marina.
+- As a user I want to see a list of facilities at the marin.
+- As a user I want to be able to see what is for sale at the cafe.
+- As a user I want to be able to sign up to the mailing list.
+- As a user I want to be able to find the marina's social pages.
 
 ### Site Aims
-- To educate users about the marina 
-- To make the user up to date with cafe offers
-- To easily communicate with users for any queries they have
-- To advertise the facilities the marina to show them the site is a one stop location for boatin needs.
-- To show the current up to date mooring fees
+- To educate users about the marina.
+- To make the user up to date with cafe offers.
+- To easily communicate with users for any queries they have.
+- To advertise the facilities the marina to show them the site is a one stop location for boating needs.
+- To show the current up to date mooring fees.
 
 ### Colour Schemes
 - I used [Coolors](https://coolors.co) to help me choose the above colours of #FFF3B0 yellow and #3c54a3 blue.
-They are colours that represent the sun and water respectively and both colours stand out and are easy to see as text when the other colour is its background partner. I also used black and white as black can be seen with the yellow background and white to give the site cleaniness and a llight airy feel (background).
+They are colours that represent the sun and water respectively and both colours stand out and are easy to see as text when the other colour is its background partner. I also used black and white as black can be seen with the yellow background and white to give the site cleaniness and a light airy feel (background).
 ![image](assets/images/coolors.png)
 
 ### Typeography 
 - [Google-Fonts](https://fonts.google.com/) is what used to pick the three types of font I have on the website.
 - Cinzel used in headings and the nav bar. It is a bold stand out presence with its all caps look.
-- Yellowtail is only used for the motto. I just really like it, very flowy that matches what the motto means    .
+- Yellowtail is only used for the motto. I just really like it, very flowy that matches what the motto means.
 - Zilla Slab used in all other text. Very simple and easy to read. It matches the heading font perfectly.
 
 ## Page Content 
@@ -94,7 +94,7 @@ They are colours that represent the sun and water respectively and both colours 
 - The title icon is a boat.
 - It has four columns Boat Size, Annual Payment, Quarterly Payment and Monthly Payment.
 - The headings are the reverse colours of the data so they stand out more to make the table easier to understand.
-- The user finds their boat length, then moves horizintal to see the price of mooring for that size.
+- The user finds their boat length, then moves horizontal to see the price of mooring for that size.
 - At the bottom there is an extra cost if an end jetty is required. 
 ![image](assets/images/table-print-screen.png)
 
