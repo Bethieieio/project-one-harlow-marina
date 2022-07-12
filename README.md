@@ -131,10 +131,20 @@ They are colours that represent the sun and water respectively and both colours 
 - As well as the cafe offers, adding the main menu would be very useful so the users can see what food there is avaliable before coming down to visit.
 - An events / news page would be valuable. The section would keep current users at the marina up to date with news while potential users can come down for the first time at an event to see the sites.
 
-<!-- ## Testing Phase COME BACK TO THIS BETH  --> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-lighthouse
-w3 html thing
-css thing
+## Testing
+
+### Lighthouse
+I used [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en), the Google chrome tool to test the website. The results are below.
+![image](assets/images/lighthouse.png)
+### W3C HTML Validator
+I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the website. Only after fixing a couple of simple errors, I tested again to see that there are no more errors in the HTML.
+![image](assets/images/html-test)
+### W3C CSS Validator
+I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS validator. After only testing it once, I found that there were no errors in the websites CSS.
+![image](assets/images/css-test)
+
+
+
 
 ## Bugs
 
