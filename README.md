@@ -138,8 +138,9 @@ I used [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdc
 ![image](assets/images/lighthouse.png)
 ### W3C HTML Validator
 I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the website. Only after fixing a couple of simple errors.
-- I removed obsolete attributes in the map iframe.
+- I removed obsolete attributes in the embedded map iframe.
 - I changed the spans to help with navigation into divs as its best practice to not has the spans here, as they had 'h2' headings inside the tags.
+![image](assets/images/html-testing.png)
  I tested again to see that there are no more errors in the HTML.
 ![image](assets/images/html-test.png)
 ### W3C CSS Validator
