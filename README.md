@@ -166,6 +166,11 @@ I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS 
 - The mailing list 'Sign Up' button successfuly takes the user to the success page.
 - The user is shown a 'required' message if they fail to add an email to the email field. It does not lag when it loads.
 
+### Testing on Mobile phone
+- I tested the site on my I-Phone 12.
+- All the components are in the right place
+- The hamburger navigation works as it should
+- The layout has changed so it is easier to navigate the website on the mobile phone, by having all the components in one column.
 
 ## Bugs
 
