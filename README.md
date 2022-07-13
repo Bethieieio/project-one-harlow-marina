@@ -143,7 +143,24 @@ I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the
 I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS validator. After only testing it once, I found that there were no errors in the websites CSS.
 ![image](assets/images/css-test)
 
-
+### Manual Testing
+- I tested the website on Chrome, Safari and Edge.
+- The website loaded at a suitable rate, all the images appearing at the same time.
+#### Navigation Bar
+- The hovers on the nav bar all worked as normal with no delay.
+- All the nav links took the user to the correct part of the page.
+- The smooth scroll behavior worked on all sites, although it appeared faster in Safari.
+#### Contact Us
+- The cat picture in "Contact Us" hover workd as it should.
+- The map showing the marinas location works, zooming the page map in and out or to scroll around the map.
+- Typing in the forms as no issues, the form selection also works with no issues.
+- The required message that appears if any of the fields have not been filled out are present.
+- Pressing send on the form takes the user to the the success page. It does not lag when it loads.
+#### Footer
+- The "to the top of the page" button in the footer worked,
+- All the social media links in the footer took the user to the correct sites.
+- The mailing list 'Sign Up' button successfuly takes the user to the success page.
+- The user is shown a 'required' message if they fail to add an email to the email field. It does not lag when it loads.
 
 
 ## Bugs
