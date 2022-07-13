@@ -138,10 +138,10 @@ I used [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdc
 ![image](assets/images/lighthouse.png)
 ### W3C HTML Validator
 I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the website. Only after fixing a couple of simple errors, I tested again to see that there are no more errors in the HTML.
-![image](assets/images/html-test)
+![image](assets/images/html-test.png)
 ### W3C CSS Validator
 I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS validator. After only testing it once, I found that there were no errors in the websites CSS.
-![image](assets/images/css-test)
+![image](assets/images/css-test.png)
 
 ### Manual Testing
 - I tested the website on Chrome, Safari and Edge.
