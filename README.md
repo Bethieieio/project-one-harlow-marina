@@ -171,7 +171,7 @@ I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS 
 - All the components are in the right place
 - The hamburger navigation works as it should
 - The layout has changed so it is easier to navigate the website on the mobile phone, by having all the components in one column.
-
+![image](assets/images/phone-test.PNG)
 ## Bugs
 
 - Issue: Slow loading picture
