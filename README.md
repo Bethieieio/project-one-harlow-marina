@@ -137,7 +137,10 @@ They are colours that represent the sun and water respectively and both colours 
 I used [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en), the Google chrome tool to test the website. The results are below.
 ![image](assets/images/lighthouse.png)
 ### W3C HTML Validator
-I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the website. Only after fixing a couple of simple errors, I tested again to see that there are no more errors in the HTML.
+I used [W3C's](https://validator.w3.org/) HTML validator to test the HTML on the website. Only after fixing a couple of simple errors.
+- I removed obsolete attributes in the map iframe.
+- I changed the spans to help with navigation into divs as its best practice to not has the spans here, as they had 'h2' headings inside the tags.
+ I tested again to see that there are no more errors in the HTML.
 ![image](assets/images/html-test.png)
 ### W3C CSS Validator
 I used [W3C](https://jigsaw.w3.org/css-validator/) again, this time for its CSS validator. After only testing it once, I found that there were no errors in the websites CSS.
